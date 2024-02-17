@@ -1,0 +1,36 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 0px,0px;
+    font-size: 20px;
+    background-position: center;
+    background-size: cover;
+}
+
+.main form{
+    background-color: aqua;
+    border: 1px;
+    padding: 15px,0px;
+    border-radius: 5px;
+    width: 100%;
+}
+.header{
+    text-align: center;
+    text-decoration: rgb(255, 0, 204);
+    
+}
+.button:hover span{
+    cursor: pointer;
+    width: 100%;
+}
+input[type="password"],
+input[type="email"],
+input[type="date"],
+input[type="address"],
+input[type="submit"],
+input[type="Name"]{
+    width: 100%;
+}
