@@ -1,0 +1,56 @@
+*{
+    
+    border: 50px;
+}
+ body{
+    margin: 20px;
+    
+ }
+ .main{
+  height: 628px;
+  width: 100%;
+  display: inline-block;
+ }
+ .nav{
+    background-color: palevioletred;
+    height: 75px;
+    width: 80%;
+    font-size: 30pt ;
+    text-align: center;
+
+    
+ }
+ .Ele{
+    margin: 20px;
+    display: inline-block;
+   
+ }
+
+ 
+ .footer{
+   font-weight: bolder;
+   height: 50px;
+   width: 80%;
+   background-color: chartreuse;
+   font-size: larger;
+   
+ }
+ .content{
+   height: 628px;
+   width: 600px;
+   background-color: rgb(184, 232, 86);
+ }
+ .image{
+   height: 628px;
+   width: 580px;
+   background-color: rgb(232, 161, 185);
+   text-indent: 38px;  
+ }
+ .para{
+  text-indent: 98px;
+ }
+ .table{
+border-collapse: collapse;
+ }
+ 
+ 
